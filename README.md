@@ -44,6 +44,7 @@ cat-image-detector/
 ├─ main.py
 ├─ requirements.txt
 ├─ README.md
+├─ CONTRIBUTING.md
 ├─ .gitignore
 └─ app/
    ├─ __init__.py
@@ -53,3 +54,7 @@ cat-image-detector/
    ├─ reporting.py
    └─ utils.py
 ```
+
+## Contribuciones
+
+¿Quieres mejorar el proyecto? Consulta la [guía de contribución](CONTRIBUTING.md) para ver el flujo de trabajo, ideas de mejora y convenciones.
